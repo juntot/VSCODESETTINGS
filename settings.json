@@ -1,0 +1,20 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false
+}
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+oem_2",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+a",
+        "command": "-editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
