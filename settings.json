@@ -3,5 +3,9 @@
     "liveServer.settings.donotVerifyTags": true,
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Slime",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "off",
+    "window.zoomLevel": 0
 }
